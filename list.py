@@ -9,4 +9,4 @@ class Rodent:
   def add_weight(self, weight):
   ..self.weights.append(weight)
   
-Rodent.add_weight(10)  
+Rodent.add_weight(20)  
